@@ -1,6 +1,6 @@
 # Simple API
 
-โครงสร้าง REST API แบบง่ายที่สุดสำหรับทดสอบระบบ
+โครงสร้าง REST API แบบง่ายที่สุดสำหรับทดสอบระบบ + ใช้ Postman Software ในการ GET/POST/PUT/DELETE
 
 ## โครงสร้าง Folder
 ```
