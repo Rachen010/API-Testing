@@ -1,0 +1,16 @@
+{
+  "name": "simple-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.2"
+  },
+  "description": "โครงสร้าง REST API แบบง่ายที่สุดสำหรับทดสอบระบบ",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
